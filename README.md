@@ -1,2 +1,3 @@
 # surface-WQM
-Python notebooks for Chapra's textbook "Surface water quality modeling"
+
+Some Jupyter notebooks accompanied with the textbook "Surface water quality modeling" by S.C. Chapra (1996, McGraw-Hill).
